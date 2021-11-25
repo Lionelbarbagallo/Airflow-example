@@ -1,0 +1,1 @@
+"""Implements errors and exceptions."""
